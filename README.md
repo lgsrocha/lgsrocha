@@ -14,5 +14,5 @@
 ##
 
 <div>
-    <a href="https://www.linkedin.com/in/lucas-gabriel-santos-rocha-048b8b158/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+<a href="https://www.linkedin.com/in/lucas-gabriel-santos-rocha-048b8b158/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
