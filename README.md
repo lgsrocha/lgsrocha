@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Rocha 👋
 
-Atualmente focado em React-Native
+Atualmente focado em React-Native.
 
 <div>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
